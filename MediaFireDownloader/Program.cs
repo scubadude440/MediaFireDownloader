@@ -21,7 +21,7 @@ namespace MediaFireDownloader
             switch (argsLength)
             {
                 default:
-                    logger.Error("Use MediaFireDownloader <folder key> [destination path]");
+                    logger.Error("Use MediaFireDownloader zuh7bv1vrrq4g C:/Downloads");
                     return;
                 case 1:
                     folderKey = args[0];
